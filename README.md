@@ -1,1 +1,3 @@
-# javaland
+# JavaBox 
+
+Practice DataStructures.
