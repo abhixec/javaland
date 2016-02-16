@@ -1,4 +1,5 @@
 
+
 public class SetZeros {
 	public static void setZeros(int[][] matrix){
 		int[] row=new int[matrix.length];

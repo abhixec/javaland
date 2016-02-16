@@ -22,9 +22,11 @@ public class fibonacci {
 	public static int fib_it(int n){
 		int a=0,b=1,c=1;
 		for(int i=0;i<n;i++){
+			System.out.println(a + " " + b);
 			a=b;
 			b=c;
 			c=a+b;
+			
 			
 		}
 		return a;

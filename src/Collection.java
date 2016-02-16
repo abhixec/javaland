@@ -10,8 +10,6 @@ public class Collection {
 		}
 	}
 	public static String strStr(String haystack, String needle) {
-        // Start typing your Java solution below
-        // DO NOT write main() function
         int len1 = haystack.length();
         int len2 = needle.length();   
         if(len1 < len2) return null;
